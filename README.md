@@ -1,7 +1,7 @@
 # EDA-Plotly-Express
 Explanatory data Analysis with plotly Express 
 
-[](Demo.PNG)
+![](Demo.PNG)
 
 ### Background
 
