@@ -24,8 +24,4 @@ The Inspiration is to understand the influence of the parents background, test p
 
 ### Libraries
 
-<<<<<<< HEAD
-The libraries we use today is pandas and plotly.express. You can install it by `pip install plotly`
-=======
 The libraries we use today is pandas and plotly_express. You can install it by `pip install plotly-express`
->>>>>>> 335e96dc2b0011e3120e1d99b8ff6e7f74c305bb
